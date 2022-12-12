@@ -1,4 +1,4 @@
-# ABRicateToPhandango
+# ABRicate Summary to binary
 A script to convert an [ABRicate](https://github.com/tseemann/abricate) summary to a suitable format for [phandango](https://jameshadfield.github.io/phandango/#/) visualisation.
 
 ### Required input
